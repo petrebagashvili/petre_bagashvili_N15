@@ -1,4 +1,4 @@
-// let Age=17;
+// let Age=20;
 // if (Age >=0 && Age <=12) {
 //     console.log(`Ticket price = $5`);
 // } else if (Age >12 && Age <=17) {
@@ -12,7 +12,7 @@
 // }
 
 
-let Age=68;
+let Age=20;
 let Ticketprice;
 if (Age >=0 && Age <=12) {
     Ticketprice="$5";
